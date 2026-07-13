@@ -1,33 +1,26 @@
-
-# 🛍️ Decoding Customer Value: A SQL-Driven Retention Strategy
-
-> **Using Python, SQL, and Tableau to identify high-value customers, measure promotional dependency, and design a data-driven customer retention strategy for a Direct-to-Consumer (D2C) fashion retailer.**
-
----
-
-# 📖 Background
+# Background
 
 A Direct-to-Consumer (D2C) fashion brand selling clothing, accessories, footwear, and outerwear across the United States has grown to nearly **3,900 customers**. While the business collects rich transactional and behavioral data, it lacks a structured approach to understanding **who its most valuable customers are**, **how much revenue depends on promotions**, and **which customers should be retained through pricing versus experience**.
 
 Without these insights, promotional campaigns are applied broadly, increasing marketing costs while potentially eroding margins and attracting short-term bargain hunters instead of long-term loyal customers.
 
-This project demonstrates how analytics can convert customer data into strategic business decisions using **Python**, **SQL**, and **Tableau**.
+This project demonstrates how analytics can convert customer data into strategic business decisions using **Python** and **SQL**
 
 ---
 
-# 🎯 Problem Statement
+# Problem Statement
 
 Using only transactional and behavioral customer data, the objective was to:
 
-* Identify the brand's highest-value customer segments.
+* Identify the brand's highest value customer segments.
 * Measure how dependent current revenue is on discounts and promo codes.
 * Understand which customer behaviors predict long-term loyalty.
-* Identify geographical and product-category opportunities.
-* Build a data-backed retention strategy that reduces promotional dependency **without negatively impacting sales**.
+* Identify geographical and product category opportunities.
+* Build a data backed retention strategy that reduces promotional dependency **without negatively impacting sales**.
 
 ---
 
-# ❓ Key Business Questions
+# Key Business Questions
 
 This project answers the following business questions:
 
@@ -37,53 +30,6 @@ This project answers the following business questions:
 * Which customer segments should continue receiving promotions?
 * What does the brand's ideal customer profile look like?
 
----
-
-# ⚙️ Project Workflow
-
-## 1. Data Preparation & Feature Engineering (Python)
-
-The raw customer dataset was cleaned and transformed into customer-level business metrics.
-
-Feature engineering included:
-
-* Promotional Dependency
-* Behavioral Loyalty (Definition A)
-* Organic Loyalty (Definition C)
-* Customer Segmentation
-* Customer Value Metrics
-* Geographic Performance Metrics
-
-Every engineered feature was designed to answer a specific business question rather than simply describe the data.
-
----
-
-## 2. Customer Segmentation & Business Analysis (SQL)
-
-SQL was used to answer strategic business questions, including:
-
-* High-value vs low-value customer characteristics
-* Promotion dependency by customer segment
-* Category-wise retention behaviour
-* Geographic spending patterns
-* Customer profile analysis
-* Loyalty behaviour across demographics
-
----
-
-## 3. Executive Dashboard (Tableau)
-
-An interactive executive dashboard was developed to help business stakeholders quickly evaluate customer value and promotional effectiveness.
-
-The dashboard includes:
-
-* Executive KPI Cards
-* Customer Value Pyramid
-* Promotional Dependency Analysis
-* Geographic Opportunity Analysis
-* Category Retention Funnel
-* Customer Segmentation
-* Interactive Filters
 
 ---
 
