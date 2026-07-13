@@ -26,19 +26,19 @@ The company currently relies heavily on promotional discounts but lacks visibili
 
 Approximately **46.1% of loyal customers still purchase using discounts or promo codes**, indicating that a significant portion of promotional spend is subsidizing customers who would likely purchase without incentives. 
 
----
+
 
 ### 2. Organic Loyalty Exists
 
 A subset of customers demonstrates strong repeat purchasing behavior, high review ratings, and no reliance on promotions. These customers represent the brand's highest-value segment and provide the strongest long-term profitability. 
 
----
+
 
 ### 3. Promotions Are Not the Primary Driver of Retention
 
 Customers with long purchase histories and frequent buying behavior continue purchasing regardless of discounts. This suggests that blanket promotional strategies reduce margins without materially improving retention. 
 
----
+
 
 ### 4. Ideal Customers
 
