@@ -20,49 +20,7 @@ The company currently relies heavily on promotional discounts but lacks visibili
 
 ---
 
-## Analysis Performed
-
-### Data Preparation & Feature Engineering
-
-* Cleaned and transformed customer transaction data.
-* Created business-oriented features such as:
-
-  * Promotional Dependency
-  * Loyalty Definition A (Behavioral Loyalty)
-  * Loyalty Definition C (Organic Loyalty)
-* Engineered customer-level metrics for retention and promotional analysis.
-
-### Customer Segmentation
-
-Segmented customers based on:
-
-* Purchase frequency
-* Previous purchases
-* Review ratings
-* Promotional dependency
-* Subscription status
-
-This enabled identification of:
-
-* Loyal Customers
-* Organic Loyal Customers
-* Promo-Dependent Customers
-* Standard Customers
-
-### Business Intelligence Dashboard
-
-Developed an executive Tableau dashboard covering:
-
-* Customer Value Pyramid
-* Promotional Dependency Analysis
-* Geographic Opportunity Analysis
-* Product Category Performance
-* Customer Loyalty Distribution
-* Executive KPI Cards
-
----
-
-# 📈 Key Insights
+# Key Insights
 
 ### 1. High Promotional Dependency
 
