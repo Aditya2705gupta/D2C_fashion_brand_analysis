@@ -34,13 +34,6 @@ This project answers the following business questions:
 
 ---
 
-## Tech Stack
-
-* **Python** – Data cleaning, feature engineering & exploratory analysis
-* **SQL** – Customer segmentation and business queries
-
----
-
 # Key Insights
 
 ### 1. High Promotional Dependency
